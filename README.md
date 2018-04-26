@@ -2,7 +2,7 @@
 
 Source: 
     
-    - https://www.sitepoint.com/projects-can-sometimes-be-the-worst-way-to-learn-javascript/
+  https://www.sitepoint.com/projects-can-sometimes-be-the-worst-way-to-learn-javascript/
 
 # New Concepts Learned
 
