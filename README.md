@@ -3,6 +3,13 @@
 Source: 
     
   https://www.sitepoint.com/projects-can-sometimes-be-the-worst-way-to-learn-javascript/
+  
+# Warm-up
+
+First advice, take a look to [codewars](http://www.codewars.com/), I think it's a good things to have when you want to start coding.
+It allows you to learn new concept, use google, stackoverflow ect...
+
+
 
 # New Concepts Learned
 
