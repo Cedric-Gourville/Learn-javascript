@@ -7,7 +7,7 @@ Source:
 # Warm-up
 
 First advice, take a look to [codewars](http://www.codewars.com/), I think it's a good things to have when you want to start coding.
-It allows you to learn new concept, use google, stackoverflow ect...
+It allows you to learn new concept, use google, stackoverflow ect...and it's kind of funny. You can also compare you solution to other code warriors. I use it since a few days and I learned a lot.
 
 
 
