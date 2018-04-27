@@ -19,7 +19,7 @@ It allows you to learn new concept, use google, stackoverflow ect...and it's kin
     
     Here, you can find what I've done. Style is not the point, I did the least.
     
-  [Github repo](/Cedric-Gourville/greeting) | [Netlify deployment](https://greetingshushis.netlify.com)
+  [Github repo](Cedric-Gourville/greeting) | [Netlify deployment](https://greetingshushis.netlify.com)
     
     
 //-----Click handling + changing a class----//
