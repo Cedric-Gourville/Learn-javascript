@@ -17,6 +17,8 @@ It allows you to learn new concept, use google, stackoverflow ect...and it's kin
 
     ----> Create a greeting function that takes your name from a variable and displays a greeting to you on the page.
     
+    Here, you can find what I've done. Style is not the point, I did the least.
+    
   [Github repo](/Cedric-Gourville/greeting) | [Netlify deployment](https://greetingshushis.netlify.com)
     
     
